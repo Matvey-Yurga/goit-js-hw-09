@@ -1,0 +1,22 @@
+
+.feedback-form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.feedback-form label {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+
+.feedback-form button {
+    padding: 8px 16px;
+    background-color: #4E75FF;
+    width: auto;
+}
